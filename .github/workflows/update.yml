@@ -13,15 +13,15 @@ jobs:
           filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          config_order: anilist, music
+          config_order: music
           output_action: gist
           committer_gist: 87d6c477a1721ab66449a59dff7fef21
-          plugin_anilist: yes
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, characters
-          plugin_anilist_user: itsdwari
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
+          #plugin_anilist: yes
+          #plugin_anilist_medias: anime
+          #plugin_anilist_sections: favorites, characters
+          #plugin_anilist_user: itsdwari
+          #plugin_anilist_limit: 2
+          #plugin_anilist_limit_characters: 22
 
       - name: 🦑 Sponsors
         if: ${{ success() || failure() }}
