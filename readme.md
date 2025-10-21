@@ -15,7 +15,7 @@
 </picture>
 
 
-<picture>
+<!-- <picture>
 	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 	<img align="left" width="400" alt="🦑" src="https://imgix.ranker.com/list_img_v2/16227/2596227/original/dark-moments-from-the-pokemon-manga">
-</picture>
+</picture> -->
