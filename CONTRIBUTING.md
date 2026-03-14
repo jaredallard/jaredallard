@@ -7,6 +7,11 @@ them carefully!
 **Note**: This document does not cover things that would belong in a
 code of conduct document.
 
+> [!NOTE]
+> If you are contributing to a repository that lives on `git.rgst.io`
+> (aka `go.rgst.io`), please read the contribution instructions at:
+> https://jaredallard.dev/git.
+
 ## Table of Contents
 
 <!-- go run sigs.k8s.io/mdtoc@latest --inplace --max-depth=5 CONTRIBUTING.md -->
