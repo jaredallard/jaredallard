@@ -1,8 +1,9 @@
 <div align="center">
   <p>I am primarly on <a rel="me" href="https://git.rgst.io/jaredallard">git.rgst.io/jaredallard</a> or <a href="https://codeberg.org/jaredallard">Codeberg</a></p>
-  <br /> <br/>
+  <br />
 
   <img src=".github/pikachu.gif" />
+  <br /><br />
   
   <p>
     <a rel="me" href="https://jaredallard.dev">Website</a> |
