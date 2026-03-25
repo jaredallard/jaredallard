@@ -1,21 +1,13 @@
-> 🚀 Thanks for checking out my profile!
+<div align="center">
+  <p>I am primarly on <a rel="me" href="https://git.rgst.io/jaredallard">git.rgst.io/jaredallard</a> or <a href="https://codeberg.org/jaredallard">Codeberg</a></p>
+  <br /> <br/>
 
-<picture>
-	<a href="https://jaredallard.dev">
-		<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/jaredallard/87d6c477a1721ab66449a59dff7fef21/raw/general.svg">
-	</a>
-</picture>
-<a href="https://github.com/sponsors/jaredallard">
-	<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/jaredallard/87d6c477a1721ab66449a59dff7fef21/raw/sponsors.svg">
-</a>
-<picture>
-	<a href="https://anilist.co/user/itsdwari/">
-		<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/jaredallard/87d6c477a1721ab66449a59dff7fef21/raw/medias.svg?p">
-	</a>
-</picture>
-
-
-<!-- <picture>
-	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-	<img align="left" width="400" alt="🦑" src="https://imgix.ranker.com/list_img_v2/16227/2596227/original/dark-moments-from-the-pokemon-manga">
-</picture> -->
+  <img src=".github/pikachu.gif" />
+  
+  <p>
+    <a rel="me" href="https://jaredallard.dev">Website</a> |
+	<a rel="me" href="https://bsky.app/profile/jaredallard.dev">Bluesky</a> |
+	<a rel="me" href="https://codeberg.org/jaredallard">Codeberg</a> |
+    <a rel="me" href="https://wiki.gentoo.org/wiki/User:Jared">Gentoo Wiki</a>
+  </p>
+</div>
